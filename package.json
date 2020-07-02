@@ -1,0 +1,25 @@
+{
+  "name": "@aacassandra/jquery_upload_preview",
+  "version": "0.0.1",
+  "description": "This jQuery plugin provides an easy way to preview your uploads before they're actually uploaded to the server.",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aacassandra/jquery_upload_preview.git"
+  },
+  "keywords": [
+    "jquery_upload_preview"
+  ],
+  "author": {
+    "name": "Alauddin Afif Cassandra",
+    "email": "alauddinafifcassandra@programmer.net",
+    "url": "https://aacassandra-github.web.app/home"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aacassandra/jquery_upload_preview/issues"
+  },
+  "homepage": "https://github.com/aacassandra/jquery_upload_preview#readme"
+}
